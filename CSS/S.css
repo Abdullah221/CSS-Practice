@@ -1,0 +1,113 @@
+* {
+    
+    margin: 0px auto;
+    padding: 0px;
+    text-decoration: none;
+}
+.nav-links {
+    background-color: #000000;
+}
+
+.nav-links ul li {
+    list-style: none;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+}
+.banner {
+    width:100%;
+    min-height:20vh;
+    background: url(../Gallery/banner.webp)  no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.Text_B {
+    width: 80%;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px 40px;
+}
+.Text_B a {
+    color:#ffffff;
+    background: transparent;
+    border: 2px solid #ffffff;
+    padding: 10px 20px;
+}
+.nav-links ul li a {
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 20px;
+}
+.table-title {
+    background-color: #ffffff;
+    color: #14213d;
+}
+.table {
+    margin:0 auto;
+}
+.Education {
+    background-color: #14213d;
+    color: #ffffff;
+}
+.table-title2 {
+    background-color: #14213d;
+    color: #ffffff;
+}
+.table {
+    margin:0 auto;
+}
+.table2 {
+    margin:0 auto;
+}
+.Experience {
+    background-color: #ffffff;
+    color: #14213d;
+}
+.Hobbies {
+    color: #ffffff;
+    background-color: #14213d;
+    margin:0 auto;
+    text-align: center;
+}
+button {
+    color: #14213d;
+    background-color: #ffffff;
+}
+.cr {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.tf {
+    list-style: none;
+    font-size: 20px;;
+}
+.cr a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.f-link {
+    background-color: black;
+    color: #ffffff;
+}
+.f-link a {
+    text-decoration: none;
+}
+.Mission {
+    background-color: #000000;
+    color: white;
+}
+
+.IDS {
+    list-style: none;
+    font-size: 20px;
+    color: #14213d;
+    display: inline-block;
+    position: relative;
+}
+.IDS a {
+    text-decoration: none;
+}
